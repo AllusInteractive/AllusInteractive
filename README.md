@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Reece Morgan!
+### Hi there 👋 I'm Reece!
 
 I have been developing indie games as Allus Interactive since 2017. I also work at [The Football Pools](http://www.footballpools.com/) as a Software Engineer.
 <!-- ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Allus Interactive Logo") -->
