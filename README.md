@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Reece!
 
-I have been developing indie games as Allus Interactive since 2017. I'm also an experience Front End Web Developer, with 4+ years experience working and a developer/engineer.
+I have been developing indie games as Allus Interactive since 2017. I als have experience as a Front End Web Developer, with 4+ years experience working as a developer/engineer.
 
 I currently work at [The Football Pools](http://www.footballpools.com/) as a Software Engineer.
 <!-- ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Allus Interactive Logo") -->
