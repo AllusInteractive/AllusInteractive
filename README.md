@@ -1,15 +1,11 @@
-### Hi there 👋 I'm Reece!
+### Hi there 👋 This is Allus Interactive
 
-I have been developing indie games as Allus Interactive since 2017. I als have experience as a Front End Web Developer, with 4+ years experience working as a developer/engineer.
-
-I currently work at [The Football Pools](http://www.footballpools.com/) as a Software Engineer.
-<!-- ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Allus Interactive Logo") -->
+I have been developing indie games as Allus Interactive since 2017. I have experience with several different game engines, primarily RPG Maker and Unity. I have also used Construct 3, Unreal, Godot and Game Maker. My games have been released on mainly Android and Windows, and a few of my RPG Maker games have been released on Mac as well.
 
 ---
 
 Use the links below to find out more about me and my work
-- [My Game Dev Website](https://www.allusinteractive.com "Allus Interactive")
-- [My Web Dev Portfolio](https://www.reecemorgan.co.uk "reecemorgan.co.uk")
+- [My Site](https://www.allusinteractive.com "Allus Interactive")
 - [itch.io](https://allusinteractive.itch.io "My itch.io Page")
 
 ---
@@ -18,7 +14,6 @@ Find me on Social Media
 - [Twitter](https://twitter.com/AllusGameDev "Twitter")
 - [Instagram](https://www.instagram.com/allusinteractive/ "Instagram")
 - [Facebook](https://www.facebook.com/AllusInteractive/ "Facebook")
-- [LinkedIn](https://www.linkedin.com/in/reece-morgan-tfp/)
 
 <!--
 **AllusInteractive/AllusInteractive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
