@@ -1,6 +1,6 @@
-### Hi there 👋 This is Allus Interactive
+### Hi there 👋 I'm Reece
 
-I have been developing indie games as Allus Interactive since 2017. I have experience with several different game engines, primarily RPG Maker and Unity. I have also used Construct 3, Unreal, Godot and Game Maker. My games have been released on mainly Android and Windows, and a few of my RPG Maker games have been released on Mac as well.
+I have been developing indie games as [Allus Interactive](https://github.com/Allus-Interactive) since 2017. I have experience with several different game engines, primarily RPG Maker and Unity. I have also used Construct 3, Unreal, Godot and Game Maker. My games have been released on mainly Android and Windows, and a few of my RPG Maker games have been released on Mac as well.
 
 ---
 
